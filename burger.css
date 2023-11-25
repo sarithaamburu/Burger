@@ -1,0 +1,20 @@
+.hr{
+    display: flex;
+    margin-left: 40%;
+}
+.input{
+    background-color: bisque;
+}
+.bottom{
+    background-color: brown;
+    color: white;
+
+}
+a{
+    color: white;
+}
+.bottom p{
+    margin-top: -0%;
+   text-align: center;
+   
+    }

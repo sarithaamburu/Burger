@@ -1,0 +1,209 @@
+.part1{
+    display: flex;
+    background-color: white;
+    
+}
+.les1{
+    margin-top: 2%;
+}
+.part2{
+    display: flex;
+    background-color: white;
+    margin-top: 2%;
+   
+}
+.headerpart{
+    display: flex;
+    justify-content: space-between;
+}
+.burger2{
+    display: flex;
+    justify-content: space-between;
+}
+.seeall{
+    margin-top: 2%;
+}
+.dine{
+    margin-top: 2%;
+}
+.input{
+    margin-top: 3%;
+}
+.burger3{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: beige;
+}
+.burger2{
+    background-color:beige ;
+}
+.burger4{
+    background-color:gainsboro ;
+
+}
+.bur{
+    display: flex;
+}
+.bur1{
+    display: flex;
+    
+}
+.subbur{
+    display: flex;
+}
+.les{
+    margin-top: 5%;
+
+}
+.subbur1{
+    display: flex;
+}
+.cir{
+    margin-top: 8%;
+    
+}
+.span{
+    margin-top: -1%;
+}
+.subburger{
+    display: flex;
+    justify-content: space-evenly;
+}
+.burger5{
+    background-color:gainsboro
+}
+.lastpart1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    font-size: 50%;
+
+}
+.lastpart2{
+    display: flex;
+    
+    background-color: black;
+    color: white;
+    font-size: 45%;
+    margin-left: 3.5%;
+}
+.lastpart3{
+    display: flex;
+
+    background-color: black;
+    color: white;
+    font-size: 45%;
+}
+.lastpart4{
+    display: flex;
+    
+    background-color: black;
+    color: white;
+    font-size: 45%;
+}
+.lastpart5{
+    display: flex;
+    
+    background-color: black;
+    color: white;
+    font-size: 45%;
+}
+.lastpart6{
+    display: flex;
+    
+    background-color: black;
+    color: white;
+    font-size: 45%;
+}
+.lastpart7{
+    display: flex;
+
+    background-color: black;
+    color: white;
+    font-size: 45%;
+}
+.lastpart8{
+    display: flex;
+
+    background-color: black;
+    color: white;
+    font-size: 45%;
+}
+.lastpart9{
+    display: flex;
+    
+    background-color: black;
+    color: white;
+    font-size: 45%;
+}
+.burger6{
+    background-color: black;
+}
+.t0{
+    margin-left: 6%;
+}
+.t1{
+    margin-left: 12%;
+}
+.t2{
+    margin-left: 10%;
+}
+.t3{
+    margin-left: 8%;
+}
+.t4{
+    margin-left: 7%;
+}
+
+.t5{
+    margin-left: 9%;
+}
+.t6{
+    margin-left: 11%;
+}
+.t7{
+    margin-left: 12%;
+}
+.t8{
+    margin-left: 6.5%;
+}
+.t9{
+    margin-left: 10%;
+}
+.t10{
+    margin-left: 8%;
+}
+.t11{
+    margin-left: 13%;
+}
+.t12{
+    margin-left: 25%;
+}
+.t13{
+    margin-left: 11%;
+}
+.t14{
+    margin-left: 25%;
+}
+.t15{
+    margin-left: 25%;
+}
+.t16{
+    margin-left: 25%;
+}
+.t17{
+    margin-left: 25%;
+}
+.lastpart10{
+    display: flex;
+    justify-content: space-evenly;
+}
+.subpart10{
+    display: flex;
+    margin-top: 5%;
+}
+.con{
+    margin-top: 5%;
+}
+

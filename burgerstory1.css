@@ -1,0 +1,10 @@
+.firstpart-1{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.firstpart{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+}
